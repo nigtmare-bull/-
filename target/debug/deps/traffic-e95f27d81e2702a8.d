@@ -1,10 +1,18 @@
-E:\курсовой_проект\курсовая\traffic\target\debug\deps\traffic-e95f27d81e2702a8.d: src\main.rs src\contracts\mod.rs src\contracts_impl\mod.rs src\models\mod.rs src\models\car.rs src\models\driver.rs src\models\penalty.rs src\models\violation.rs Cargo.toml
+E:\курсовой_проект\курсовая\traffic\target\debug\deps\traffic-e95f27d81e2702a8.d: src\main.rs src\contracts\mod.rs src\contracts\car.rs src\contracts\driver.rs src\contracts\penalty.rs src\contracts\violation.rs src\contracts_impl\mod.rs src\contracts_impl\car.rs src\contracts_impl\driver.rs src\contracts_impl\penalty.rs src\contracts_impl\violation.rs src\models\mod.rs src\models\car.rs src\models\driver.rs src\models\penalty.rs src\models\violation.rs Cargo.toml
 
-E:\курсовой_проект\курсовая\traffic\target\debug\deps\libtraffic-e95f27d81e2702a8.rmeta: src\main.rs src\contracts\mod.rs src\contracts_impl\mod.rs src\models\mod.rs src\models\car.rs src\models\driver.rs src\models\penalty.rs src\models\violation.rs Cargo.toml
+E:\курсовой_проект\курсовая\traffic\target\debug\deps\libtraffic-e95f27d81e2702a8.rmeta: src\main.rs src\contracts\mod.rs src\contracts\car.rs src\contracts\driver.rs src\contracts\penalty.rs src\contracts\violation.rs src\contracts_impl\mod.rs src\contracts_impl\car.rs src\contracts_impl\driver.rs src\contracts_impl\penalty.rs src\contracts_impl\violation.rs src\models\mod.rs src\models\car.rs src\models\driver.rs src\models\penalty.rs src\models\violation.rs Cargo.toml
 
 src\main.rs:
 src\contracts\mod.rs:
+src\contracts\car.rs:
+src\contracts\driver.rs:
+src\contracts\penalty.rs:
+src\contracts\violation.rs:
 src\contracts_impl\mod.rs:
+src\contracts_impl\car.rs:
+src\contracts_impl\driver.rs:
+src\contracts_impl\penalty.rs:
+src\contracts_impl\violation.rs:
 src\models\mod.rs:
 src\models\car.rs:
 src\models\driver.rs:
